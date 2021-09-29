@@ -3,7 +3,7 @@
 
 🎓 Formada em Gestão da Tecnologia da Informação; </br>
 📚 Estudante de Desenvolvimento de Sistemas; </br>
-🌱 Atualmente estou aprendendo C#, .NET,  Delphi, Banco de Dados relacionais e arquitetura de software; </br>
+🌱 Atualmente estou aprendendo C#, .NET, Banco de Dados relacionais e arquitetura de software; </br>
 🔭 Atualmente estou trabalhando como Desenvolvedora BackEnd.
 
 <h3 align="left">Conecte-se Comigo:</h3>
